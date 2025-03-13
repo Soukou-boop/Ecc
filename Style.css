@@ -1,1 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
 
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #007bff;
+    color: white;
+    padding: 50px 20px;
+}
+
+#services {
+    background-color: white;
+    padding: 40px;
+}
+
+.service {
+    margin: 20px;
+    padding: 20px;
+    background: #f8f9fa;
+    display: inline-block;
+    width: 30%;
+}
+
+#contact {
+    background-color: #ddd;
+    padding: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
